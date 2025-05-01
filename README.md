@@ -13,9 +13,6 @@ This project presents a comprehensive E-Commerce Sales Analysis Dashboard for th
 
 To create a dynamic and interactive dashboard that provides stakeholders with real-time insights into sales trends, order fulfillment, and customer purchasing patterns.
 
-![E-Commerce Sales Dashboard](https://github.com/bhaskar0909/E-Commerce-Sales-Analysis-Dashboard-Power-BI/blob/main/E-Commerce-Sales-Analysis.png?raw=true)
-
-
 🔧 Tools & Skills Used
 
 Power BI (Dashboard creation, DAX measures, Visual storytelling)
